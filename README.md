@@ -1,3 +1,3 @@
-# Humza-A.github.io
+# Humza-A-Youtube.github.io
 
-WEB222 YouTube Final Assignment
+YouTube Final Assignment
